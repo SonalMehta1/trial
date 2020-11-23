@@ -17,6 +17,8 @@ var bird, slingshot;
 
 function preload() {
     backgroundImg = loadImage("sprites/bg.png");
+    //here you upload all assets
+    
 }
 
 function setup(){
